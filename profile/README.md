@@ -36,7 +36,7 @@ Choose the functionality you need, then choose the platform to download the demo
 
 > ### Conferences
 >
-> How to use Voximplant SDKs to create conferences with features, such as toggling video sending, muting microphone, screen sharing etc.
+> Use Voximplant SDKs to create conferences with features, such as toggling video sending, muting microphone, screen sharing etc.
 >
 > [[Documentation](https://voximplant.com/docs/guides/conferences/howto)]
 [[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
@@ -45,7 +45,7 @@ Choose the functionality you need, then choose the platform to download the demo
 
 > ### Instant messaging
 >
-> How to use Voximplant SDKs to create instant messaging client
+> Create an instant messaging client where you can send, edit, and delete messages, and add interatcive bots to your chats
 >
 > [[Documentation](https://voximplant.com/docs/guides/im)]
 [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
