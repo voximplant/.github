@@ -1,4 +1,4 @@
-![](github.png)
+![Voximplant logo](https://github.com/voximplant/.github/blob/main/profile/github.png)
 
 ## A cloud communication platform for everyone
 
