@@ -17,6 +17,7 @@ Choose the functionality you need, then choose the platform to download the demo
 > 
 > [[Documentation](https://voximplant.com/docs/guides/calls/audio)]
 [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
+[[Click-to-call web widget](https://github.com/voximplant/click-to-call)]
 [[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/audiocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
@@ -49,11 +50,3 @@ Choose the functionality you need, then choose the platform to download the demo
 > [[Documentation](https://voximplant.com/docs/guides/im)]
 [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
-
-> ### Click-to-call
->
-> Demonstrates how to use the Voximplant Web SDK to create audio and video calls with call transfer, DTMF, and many other features. 
->
-> [[Documentation](https://voximplant.com/docs/guides/solutions/clicktocall)]
-[[Web SDK](https://github.com/voximplant/click-to-call)]
-
