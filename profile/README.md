@@ -15,20 +15,18 @@ Choose the functionality you need, then choose the platform to download the demo
 > 
 > Implement a audio calls application with multiple features, such as holding a call, muting microphone, sending tone signals etc.
 > 
-> [[Documentation](https://voximplant.com/docs/guides/calls/audio)]
-[[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
-[[Click-to-call web widget](https://github.com/voximplant/click-to-call)]
+> [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/audiocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/blob/master/audio_call)]
+[[Click-to-call web widget](https://github.com/voximplant/click-to-call)]
 
 > ### Video calls
 >
 > Implement a video calls application with multiple features, such as screen sharing, holding a call, muting microphone etc.
 > 
-> [[Documentation](https://voximplant.com/docs/guides/calls/video)]
-[[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
+> [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/videocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
@@ -38,15 +36,13 @@ Choose the functionality you need, then choose the platform to download the demo
 >
 > Use Voximplant SDKs to create conferences with features, such as toggling video sending, muting microphone, screen sharing etc.
 >
-> [[Documentation](https://voximplant.com/docs/guides/conferences/howto)]
-[[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
-[[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
+> [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/ConferenceDemo)]
+[[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
 
 > ### Instant messaging
 >
 > Create an instant messaging client where you can send, edit, and delete messages, and add interatcive bots to your chats
 >
-> [[Documentation](https://voximplant.com/docs/guides/im)]
-[[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
+> [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
