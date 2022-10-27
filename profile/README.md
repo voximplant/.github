@@ -47,10 +47,10 @@ Choose the functionality you need, then choose the platform to download the demo
 > [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
 
-### Our UI kits for multiple platforms
+### Our voice & video apps for multiple platforms
 
-> ### Voximplant UI kit for Vue.js
+> ### Voximplant voice & video app for Vue.js
 >
-> Ready-to-use UI kit for embedding Voximplant audio and video experience into a Vue based application.
+> Ready-to-use voice & video app for embedding Voximplant functionality into a Vue based application.
 >
 > [[Vue.js](https://github.com/voximplant/ui-kit-for-vuejs)]
