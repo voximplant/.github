@@ -51,7 +51,7 @@ Choose the functionality you need, then choose the platform to download the demo
 >
 > Ready-to-use and fully customizable video conference solution for multiple platforms.
 >
-[[Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
+> [[Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
 
 > ### Voximplant Click-to-call web widget
 >
