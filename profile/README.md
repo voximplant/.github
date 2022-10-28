@@ -20,7 +20,6 @@ Choose the functionality you need, then choose the platform to download the demo
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/audiocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/blob/master/audio_call)]
-[[Click-to-call web widget](https://github.com/voximplant/click-to-call)]
 
 > ### Video calls
 >
@@ -38,7 +37,6 @@ Choose the functionality you need, then choose the platform to download the demo
 >
 > [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/ConferenceDemo)]
-[[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
 
 > ### Instant messaging
 >
@@ -47,7 +45,19 @@ Choose the functionality you need, then choose the platform to download the demo
 > [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
 
-### Our voice & video apps for multiple platforms
+### Our ready-to-use solutions for multiple platforms
+
+> ### Voximplant video conference solution for Web, iOS, and Android
+>
+> Ready-to-use and fully customizable video conference solution for multiple platforms.
+>
+[[Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
+
+> ### Voximplant Click-to-call web widget
+>
+> Ready-to-use click-to-call widget for your website.
+>
+> [[Web SDK](https://github.com/voximplant/click-to-call)]
 
 > ### Voximplant voice & video app for Vue.js
 >
